@@ -1,6 +1,54 @@
 /* Home.css */
 
 /* Global Styles */
+/* Our Story Section */
+.our-story {
+  background-color: #f7f7f7;
+  padding: 40px 20px;
+  text-align: center;
+  color: #333;
+}
+
+.our-story h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.our-story p {
+  max-width: 800px;
+  margin: 0 auto;
+  font-size: 1.2rem;
+  line-height: 1.6;
+}
+
+/* Address Section */
+.address {
+  background-color: #333;
+  color: #fff;
+  padding: 30px 20px;
+  text-align: center;
+}
+
+.address h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.address p {
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+/* Additional Styling */
+.hero-section {
+  background-image: url('https://i.imgur.com/8Ygh2gZ.jpg');
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+  padding: 50px;
+  text-align: center;
+}
+
 body {
     margin: 0;
     font-family: 'Arial', sans-serif;

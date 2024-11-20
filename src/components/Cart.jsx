@@ -76,5 +76,4 @@ const Cart = ({ cartItems, onRemoveItem }) => {
     </div>
   );
 };
-
 export default Cart;

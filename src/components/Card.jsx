@@ -17,5 +17,4 @@ const Card = ({item,handleClick,showCartVal}) => {
     </div>
   )
 }
-
 export default Card
