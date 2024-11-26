@@ -70,7 +70,7 @@
 
     <h3>Inferno Hot Sauce</h3>
 
-    <p>Rs 1299</p>
+    <p>Rs 1299 </p>
 
     <button onClick={show}className="view-details-btn">View Details</button>
 
@@ -112,8 +112,8 @@
         <h2>Contact Us</h2>
         <p>
           JMBM Trading Company <br />
-          123 Flavor Street, Spice City, Sauceville, 456789 <br />
-          Email: info@jmbmtrading.com | Phone: +1-800-SAUCE-IT
+          123 Patti Dogar,Kaithal,Haryana(136027)<br />
+          Email: info@jmbmtrading.com | Phone: 1800-11-7852
         </p>
       </section>
 {/* Special Promotions */}
