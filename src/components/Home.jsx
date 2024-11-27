@@ -31,14 +31,14 @@
     <h2>Explore Our Sauce Categories</h2>
     <div className="category-cards">
     <div className="category-card">
-    <img src="https://pngimg.com/d/sauce_PNG110.png" alt="Spicy Sauces" />
+    <img src="https://www.seriouseats.com/thmb/bBc2VrbGRGigMXBzcRpUP8-CwUc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2021__02__20210128-fermented-hot-sauce-charred-fresno-tamari-vicky-wasik-ec8e5f05468443f9adc456686fbff1c9.jpg" alt="Spicy Sauces" />
     <h3>Spicy Sauces</h3>
     
     </div>
 
     <div className="category-card">
 
-    <img src="https://pngimg.com/d/sauce_PNG110.png" alt="Sweet Sauces" />
+    <img src="https://thumbs.dreamstime.com/z/thai-sweet-chili-sauce-isolated-white-background-glass-bottle-golden-twist-off-screw-cap-no-label-glass-bottle-thai-281719998.jpg" alt="Sweet Sauces" />
 
     <h3>Sweet Sauces</h3>
 
@@ -46,7 +46,7 @@
 
     <div className="category-card">
 
-    <img src="https://pngimg.com/d/sauce_PNG110.png" alt="Barbecue Sauces" />
+    <img src="https://www.noracooks.com/wp-content/uploads/2018/03/IMG_5720.jpg" alt="Barbecue Sauces" />
 
     <h3>Barbecue Sauces</h3>
 
